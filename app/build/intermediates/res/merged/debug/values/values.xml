@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_txt_title_in_prepare">#FE4A26</color>
+    <color name="color_txt_version_prepare">#AAAAAA</color>
+    <color name="txt_label_focus_on">#FE4A26</color>
+    <color name="txt_label_not_focus_on">#AAAAAA</color>
+    <color name="txt_no_result">#AFAFAF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="search_view_height">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">com.gongxu.Food</string>
+    <string name="copyright">Copyright gongxu 版权所有</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="please_select_shop_type">菜系</string>
+    <string name="queryHint">请输入店铺名称搜索</string>
+    <string name="txt_no_result">未搜索到相关店铺！</string>
+    <string name="txt_query_hint">请输入店铺名</string>
+    <string name="txt_title">网络订餐系统</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

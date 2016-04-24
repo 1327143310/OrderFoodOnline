@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_txt_title_in_prepare">#FE4A26</color>
+    <color name="color_txt_version_prepare">#AAAAAA</color>
+    <color name="txt_label_focus_on">#FE4A26</color>
+    <color name="txt_label_not_focus_on">#AAAAAA</color>
+    <color name="txt_no_result">#AFAFAF</color>
+</resources>

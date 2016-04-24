@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="48005721080808" >
+
+    <task
+        name="javac"
+        duration="141" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="10" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="D:\Projects\AndroidStudioProjects\com.gongxu.Food\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\Projects\AndroidStudioProjects\com.gongxu.Food\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+
+    <build timestamp="42758902269248" >
+        <artifact
+            location="D:\Projects\AndroidStudioProjects\com.gongxu.Food\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="48005721080808" >
+        <artifact
+            location="D:\Projects\AndroidStudioProjects\com.gongxu.Food\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\Projects\AndroidStudioProjects\com.gongxu.Food\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">com.gongxu.Food</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_title">网络订餐系统</string>
+    <string name="copyright">Copyright gongxu 版权所有</string>
+    <string name="queryHint">请输入店铺名称搜索</string>
+    <string name="txt_no_result">未搜索到相关店铺！</string>
+    <string name="txt_query_hint">请输入店铺名</string>
+    <string name="please_select_shop_type">菜系</string>
+
+</resources>
